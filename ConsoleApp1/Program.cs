@@ -6,7 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!aaa ");
+            Console.WriteLine("Hello World!");
+            global::System.Console.WriteLine("Roiben");
         }
     }
 }
