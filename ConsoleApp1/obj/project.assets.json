@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\eloy.gonzalezbarreir\\.nuget\\packages\\": {},
+    "C:\\Users\\manuel.regueirasomoz\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eloy.gonzalezbarreir\\Source\\Repos\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\manuel.regueirasomoz\\source\\repos\\Tema8\\Ejercicio1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\eloy.gonzalezbarreir\\Source\\Repos\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\eloy.gonzalezbarreir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eloy.gonzalezbarreir\\Source\\Repos\\Ejercicio_1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\manuel.regueirasomoz\\source\\repos\\Tema8\\Ejercicio1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\manuel.regueirasomoz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manuel.regueirasomoz\\source\\repos\\Tema8\\Ejercicio1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\eloy.gonzalezbarreir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manuel.regueirasomoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
