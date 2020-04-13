@@ -6,7 +6,7 @@ namespace ConsoleApp1 {
     class JesusChang {
         string test;
         public JesusChang() {
-            this.test = "Lorem Ipsum";
+            this.test = "Lorem Ipsum2";
         }
     }
 }
