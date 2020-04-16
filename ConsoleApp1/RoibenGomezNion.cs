@@ -10,8 +10,8 @@ namespace ConsoleApp1
         public string Ocupacion { get; set; }
         public RoibenGomezNion()
         {
-            this.Nombre = "Roiben";
-            this.Ocupacion = "Programador";
+            this.Nombre = "Roibennnnnnnnnnnnnnnnnnn";
+            this.Ocupacion = "Programadorrrrrrrrrrrrrrrr";
         }
     }
 }
