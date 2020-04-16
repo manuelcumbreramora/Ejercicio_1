@@ -10,7 +10,11 @@ namespace ConsoleApp1
 
         public ManuelAntonio()
         {
-
+            Nombre = "Manuel Antonio";
+        }
+        public string GetNombre()
+        {
+            return this.Nombre;
         }
     }
 }
