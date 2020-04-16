@@ -6,6 +6,7 @@ namespace ConsoleApp1
 {
     class JEnriqueNaya
     {
+        global::System.Console.WriteLine("Haciendo cambios desde consola");
         
     }
 }
