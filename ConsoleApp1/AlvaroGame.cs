@@ -9,6 +9,7 @@ namespace ConsoleApp1
         public String toc;
         public String metodoAlvaro()
         {
+            //Hola
             Random random = new Random();
             if (random.Next(0,10) > 7)
             {
