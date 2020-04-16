@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\breogan.beceirocasti\\Documents\\GitHub\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\breogan.beceirocasti\\Documents\\GitHub\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\breogan.beceirocasti\\Documents\\GitHub\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\breogan.beceirocasti\\Documents\\GitHub\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\breogan.beceirocasti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\breogan.beceirocasti\\Documents\\GitHub\\Ejercicio_1\\ConsoleApp1\\obj\\",
+=======
     "C:\\Users\\eloy.gonzalezbarreir\\Source\\Repos\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
@@ -12,12 +25,17 @@
         "projectPath": "C:\\Users\\eloy.gonzalezbarreir\\Source\\Repos\\Ejercicio_1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\eloy.gonzalezbarreir\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\eloy.gonzalezbarreir\\Source\\Repos\\Ejercicio_1\\ConsoleApp1\\obj\\",
+>>>>>>> 3df85227d164d3ef931daef9f47462f0546f1366
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\breogan.beceirocasti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
           "C:\\Users\\eloy.gonzalezbarreir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3df85227d164d3ef931daef9f47462f0546f1366
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -74,7 +92,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+>>>>>>> 3df85227d164d3ef931daef9f47462f0546f1366
         }
       }
     }
